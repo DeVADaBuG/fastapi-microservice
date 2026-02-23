@@ -1,3 +1,1 @@
-# python-project-3
-
-Automated repository creation.
+# fastapi-microservice\n\nA minimalist, high-performance REST API microservice utilizing FastAPI to rapidly serve JSON endpoints and autogenerate OpenAPI documentation.\n
